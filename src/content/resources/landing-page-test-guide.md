@@ -2,7 +2,7 @@
 title: "Landing Page Test Guide"
 headline: "Build Landing Pages That Actually Convert"
 subtitle: "A step-by-step guide to creating lead capture pages that turn visitors into subscribers — with a testing checklist to make sure nothing breaks."
-pdfUrl: "https://drive.google.com/file/d/placeholder/view"
+pdfUrl: "https://drive.google.com/file/d/1krJ431wQA4UW6X9BZPuAeH-KQtjG8Hsu/view?usp=drivesdk"
 valueProps:
   - "The 5 elements every high-converting page needs"
   - "Step-by-step build process from headline to CTA"
