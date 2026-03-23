@@ -2,7 +2,7 @@
 title: "The 3-Step Money System for Parents"
 headline: "55% of Canadian Parents Feel Overwhelmed — Here's the Fix"
 subtitle: "A values-based budgeting system that takes 10 minutes a week and actually works for busy families."
-pdfUrl: "https://drive.google.com/file/d/1guiP-5sb8aU5QuSmJjinD9fkwqRa7JW0/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1onkKHy980HIbDUoYY6Fw74Q1MzNNGtfh/view?usp=drivesdk"
 valueProps:
   - "Values budget: align spending with what actually matters"
   - "Auto-savings: $50/paycheque = $1,300/year without thinking"

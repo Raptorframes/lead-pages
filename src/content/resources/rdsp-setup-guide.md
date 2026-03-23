@@ -2,7 +2,7 @@
 title: "The RDSP Setup Guide"
 headline: "Get Up to $90,000 in Free Government Money for Your Child"
 subtitle: "The RDSP gives a 300% match on your contributions. Here's how to check if your child qualifies and set it up."
-pdfUrl: "https://drive.google.com/file/d/1uQKca-nMrMXSQo-_lwHuEqwv8oNU9LX0/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1khfAYEKoJmY4nqxwGarprENQaifgsLg2/view?usp=drivesdk"
 valueProps:
   - "300% government match: $1,500 in = $3,500 free"
   - "Qualifying conditions checklist (ADHD, autism, T1D, and more)"

@@ -2,7 +2,7 @@
 title: "BC Estate Planning Checklist"
 headline: "5 Probate Traps That Cost BC Families $6,450+"
 subtitle: "A weekend checklist to probate-proof your estate — with BC-specific beneficiary designations and secondary will strategies."
-pdfUrl: "https://drive.google.com/file/d/1BslsULB2J3LkPwz39NEIpZNH9b2JVLgs/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1hIzYOib-c_4lRHblITdqnynjE_l4OG8K/view?usp=drivesdk"
 valueProps:
   - "BC probate fees: $14 per $1,000 over $50K"
   - "Account-by-account beneficiary checklist"

@@ -2,7 +2,7 @@
 title: "2026 Canadian Account Priority Cheatsheet"
 headline: "FHSA → TFSA → RRSP — The Exact Order for 2026"
 subtitle: "Stop guessing which account to fund first. This cheatsheet shows the priority for every income level with all 2026 limits."
-pdfUrl: "https://drive.google.com/file/d/18hUkLNjV2n2wSO62xWG3c6K3Nwaldqrd/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/11Ov9Gs1LN7DzgKlSSHVqBCytM3jhgJi9/view?usp=drivesdk"
 valueProps:
   - "The priority flowchart for every income level"
   - "All 2026 limits: FHSA $8K, TFSA $7K, RRSP $33.8K"

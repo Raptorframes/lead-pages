@@ -2,7 +2,7 @@
 title: "The RESP Setup Guide"
 headline: "Get $7,200 in Free Government Money for Your Child's Education"
 subtitle: "A step-by-step guide to setting up your RESP, maximizing CESG grants, and turning $208/month into $100K+ by the time your kid turns 18."
-pdfUrl: "https://drive.google.com/file/d/1OSWm9j_gqIodwczxlvuNifsw1mbeRKsj/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1MjpA5X4zYuhor9MkXeKQ1TqgOsWEGM6N/view?usp=drivesdk"
 valueProps:
   - "Set up your RESP in under 10 minutes with exact steps"
   - "Claim the full $7,200 in free CESG government grants"

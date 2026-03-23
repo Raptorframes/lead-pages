@@ -2,7 +2,7 @@
 title: "Emergency Fund Rate Comparison"
 headline: "Your Emergency Fund Is Earning 0.5% — Here Are the Best Rates"
 subtitle: "Current HISA and GIC rates compared (March 2026) with the exact accounts to move your money to."
-pdfUrl: "https://drive.google.com/file/d/1WhosAPqBHjl6ZMXU5PyIQYnZaJ4wnPvy/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1Da8Byie2RfX0kKe_Gw3xjuLa1yr2nwDh/view?usp=drivesdk"
 valueProps:
   - "Best HISA rates: Neo 3.00%, KOHO 3.50%, Tangerine 4.50% promo"
   - "Best GIC rates: WealthONE 3.65%"

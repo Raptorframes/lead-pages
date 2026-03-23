@@ -2,7 +2,7 @@
 title: "Side Hustle Tax Deduction Checklist"
 headline: "7 Write-Offs the CRA Wants You to Claim"
 subtitle: "Every deductible expense for Canadian side hustlers — with home office calculation, receipt rules, and T2125 filing guide."
-pdfUrl: "https://drive.google.com/file/d/1hnHYTXFlvLolbmkiYNyWnSmh-7sN5lGk/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1l2gDm3MTygKjdhBUZcIkFIrnX_kbPYhY/view?usp=drivesdk"
 valueProps:
   - "All 7 deductions with exact calculation methods"
   - "Home office percentage formula"

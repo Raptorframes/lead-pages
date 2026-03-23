@@ -2,7 +2,7 @@
 title: "Grocery Cost-Cutting Cheatsheet"
 headline: "Canadian Families Will Pay $1,000 More for Groceries in 2026"
 subtitle: "3 moves to fight back: cashback cards, price matching, and meal planning that actually saves money."
-pdfUrl: "https://drive.google.com/file/d/1t2sdO6gZyCgp4C0xmAkJN_thj6aLizYS/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1TmpvoJgOEM6HRhVlmZ9X12eaA-GZ4D5j/view?usp=drivesdk"
 valueProps:
   - "Cashback cards that pay 3-4% on every grocery trip"
   - "Complete list of stores that price-match in Canada"
