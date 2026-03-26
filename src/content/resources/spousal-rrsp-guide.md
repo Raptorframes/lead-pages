@@ -2,7 +2,7 @@
 title: "The Spousal RRSP Setup Guide"
 headline: "Save $3,000-$8,000 Per Year in Retirement Tax"
 subtitle: "How the spousal RRSP works, the 3-year rule explained, and step-by-step setup instructions."
-pdfUrl: "https://drive.google.com/file/d/16yROYkLd0pMbnJ8MnOLfPjsIwSA469Iq/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1CfydrPHZotJ2AY1TsVND9beLblg_50n1/view?usp=drivesdk"
 valueProps:
   - "Two withdrawals at 20% beats one at 45% — the math explained"
   - "3-year attribution rule in plain English"
