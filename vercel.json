@@ -1,7 +1,4 @@
 {
-  "trailingSlash": false,
-  "cleanUrls": true,
-  "rewrites": [
-    { "source": "/api/lead", "destination": "/api/lead" }
-  ]
+  "buildCommand": "rm -rf .astro && astro build",
+  "cleanUrls": true
 }
